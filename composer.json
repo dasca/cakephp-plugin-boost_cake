@@ -25,7 +25,8 @@
     },
     "autoload": {
 	"psr-4": {
-	"BoostCake\\": "src"
+	"Chocolate\\": "src"
+	}
     },
     "suggest": {
         "twbs/bootstrap": "Bootstrap framework"
